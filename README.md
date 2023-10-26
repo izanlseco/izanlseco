@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Izan.
 - 👀 I’m interested in computers (a lot).
-- 🌱 I’m currently learning Kafka!
+- 🌱 I’m currently learning Reactor!
